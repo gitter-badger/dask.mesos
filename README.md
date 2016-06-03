@@ -5,6 +5,8 @@ Run distributed python dask workflows on your Mesos cluster.
 
 ## Notable Features
 
+[![Join the chat at https://gitter.im/lensacom/dask.mesos](https://badges.gitter.im/lensacom/dask.mesos.svg)](https://gitter.im/lensacom/dask.mesos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
  - distributively run tasks in docker container
  - specify resource requirements per task
  - bin packing for optimized resource utilization
